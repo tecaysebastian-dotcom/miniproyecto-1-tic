@@ -13,9 +13,9 @@
 
 ## 📄 Documentación y Entregables
 * **Informe Técnico Completo (PDF):** [Descargar Informe](./Informe_MiniProyecto1.pdf)
-* **Demostraciones:**
-  * 🎥 **Actividad 1 (Zona Safari Pokémon):** [Ver Video Demostrativo](https://youtu.be/XWqipDaZR9I)
-  * 📖 **Actividad 2 (Consola Retro Recalbox):** Demostración y validación documentada mediante tutorial técnico detallado paso a paso dentro del informe.
+* **Videos Demostrativos:**
+  * 🎥 [Video Demostrativo - Actividad 1: Zona Safari Pokémon](https://youtu.be/XWqipDaZR9I)
+  * 🎥 [Video Demostrativo - Actividad 2: Consola Retro en Raspberry Pi 5](https://youtu.be/NtEbRaQaQag)
 
 ---
 
