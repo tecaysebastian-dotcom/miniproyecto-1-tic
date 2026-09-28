@@ -33,5 +33,6 @@ Simulador interactivo por consola en Python (`tic1.py`) con control ambiental y 
 Implementación de un centro de retroemulación independiente:
 * **Hardware:** Raspberry Pi 5 (4 GB RAM) con microSD Kingston Canvas Select Plus de 32 GB Class 10.
 * **Sistema Operativo:** Recalbox OS para Raspberry Pi 5 flasheado mediante *Raspberry Pi Imager*.
+* **Periférico de Entrada:** Mini Keyboard inalámbrico retroiluminado (*Backlit Mini Keyboard*) conectado por dongle USB 2.4 GHz, con mapeo de controles de juego y funciones rápidas *Hotkey*.
 * **Emuladores y Sistemas:** SNES (*Snes9x*), Game Boy Advance (*mGBA*) y Sega Genesis (*Genesis Plus GX*).
-* **Características:** Mapeo de Gamepad USB con tecla modificadora `Hotkey` (Select), guardado rápido de estados (*Save States*), raspado de metadatos y carátulas con *ScreenScraper*, y gestión por red local Samba.
+* **Características:** Mapeo de controlador personalizado con tecla modificadora `Hotkey`, guardado rápido de estados (*Save States*), raspado de metadatos/carátulas con *ScreenScraper* y administración por red Samba.
